@@ -10,4 +10,5 @@ Every single move adds 0.05 to the appropriate trajectory which has been selecte
 ur3_kwadrat.wasd.py
 It is an extensions of the previous file which additionaly gives the opportunity to draw a square.
 The first movement has to be initialized by forward x (W).
+Effect : https://www.youtube.com/watch?v=yG9Y_fwz8HE&feature=youtu.be
 
